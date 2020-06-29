@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LingoProject TargetLanguage="af" xml:lang="af" SourceLanguage="en" FileFormatVersion="6" CreatedInVersion="11" flattenSnippets="false" SelectedTarget="" SourceSourceControlBound="true" SourceSourceControlProviderType="Git" SourceSourceControlDatabase="file:///C:/Users/cchristensen/AppData/Local/MadCap Software/NewProject-3/.git/" SourceSourceControlDatabaseRoot="https://github.com/carl4os/Flare-Lingo-Fix.git/" SourceProjectGuid="fa7a6543-c62d-42c2-b25b-b193020b9d94" SourceControlBound="true" SourceControlProviderType="Git" ProjectGuid="9d7e99f0-ab79-4a1f-b802-0cea85a55952">
+    <ProjectFile Source="Target/Lingo Git2.flprj" Target="Target/Lingo Git2.flprj" />
+</LingoProject>
